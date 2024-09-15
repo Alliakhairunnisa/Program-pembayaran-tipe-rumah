@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     char tipeRmh, jenisPmbyran;
-    long long hrgaTunai, angsuranPerBln, ttlHrgaRmh;
+    long hrgaTunai, angsuranPerBln, ttlHrgaRmh;
 
     cout << "Masukkan Tipe Rumah (A, B, C, D): ";
     cin >> tipeRmh;
